@@ -5,5 +5,11 @@
             "1.1.1-alpha": "5138f5eb9a10b2f11e2f3fc4f95ca06af8c9e9c6",
             "1.4.12-beta": "5d2c7675aaf847fd878b5487a373290289b3b145"
         }
+    },
+    {
+        "url": "https://github.com/daxternib/StreamController-wallpapers",
+        "commits": {
+            "1.1.1-alpha": "996a4418e9e833d5cc86b4ff071a9e5f4e4a064c"
+        }
     }
 ]
